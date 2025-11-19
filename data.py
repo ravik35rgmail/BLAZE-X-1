@@ -1,6 +1,0 @@
-RAID = []
-REPLYRAID = []
-PORMS = []
-MRAID = []
-SRAID = []
-CRAID = []
